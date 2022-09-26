@@ -1,0 +1,20 @@
+#txt1{
+    color: rgb(80, 80, 80);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#nav1{
+    font-size: 1.2rem;
+    transition: all 1s ease-in-out;
+}
+#nav1:hover{
+    text-decoration: underline;
+    color: red;
+}
+#sitename{
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#logo{
+    font-size: 30px
+}
